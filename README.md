@@ -1,3 +1,3 @@
-# app-bib
+# React Native Boiler Plate
 
-Aplicativo Banco Industrial Brasileiro
+React Native Boiler Plate to build Apps
